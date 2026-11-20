@@ -1,0 +1,6 @@
+{
+  "name": "GCT Peshawar ERP",
+  "description": "Comprehensive College Management ERP for Government College of Technology Peshawar (B.Tech, DAE, DIT) inspired by SkoolZoom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
